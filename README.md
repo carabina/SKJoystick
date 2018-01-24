@@ -8,9 +8,9 @@
 )](https://developer.apple.com/iphone/index.action)
 [![License](https://img.shields.io/cocoapods/l/BadgeSwift.svg?style=flat)](/LICENSE)
 
-Sequentially bouncing zoom animation:
+Available directions:
 
-![sequentially bouncing zoom animation](https://github.com/aornano/SKAdvancedLabelNode/blob/master/demo.gifs) 
+![](directions.png) 
 
 Shake:
 
