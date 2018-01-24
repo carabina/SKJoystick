@@ -78,7 +78,21 @@ class GameScene: SKScene, SKJoystickDelegate {
     }
 ```
 
-Follow the example located to GameScene.swift to understand the delegate methods (really simple to use..)
+Follow the example located to ```GameScene.swift``` to understand the delegate methods (really simple to use..), the property ```direction``` contain one of these constants:
+
+```
+enum Sense: Int {
+    case UP = 0
+    case UP_RIGHT = 1
+    case RIGHT = 2
+    case DOWN_RIGHT = 3
+    case DOWN = 4
+    case DOWN_LEFT = 5
+    case LEFT = 6
+    case UP_LEFT = 7
+    case RELEASED = 8
+}
+```
 
 ## License
 SKJoystick is released under the [MIT License](LICENSE)
