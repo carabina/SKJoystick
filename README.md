@@ -15,7 +15,7 @@ Available directions:
 ![](directions.png) 
 
 **SKJoystick** is a library written in Swift to create a typical retro arcade joystick for SpriteKit.
-Using a couple of texture , the famous [SKEase](https://github.com/craiggrummitt/ActionSwift3/tree/master/ActionSwift3) library to simulate the elastic bouncing animation. I've added also three button to have a complete controls to move your hero , jump, fire and made other actions..
+Using a couple of textures , the famous [SKEase](https://github.com/craiggrummitt/ActionSwift3/tree/master/ActionSwift3) library to simulate the elastic bouncing animation. I've added also three buttons to have a complete control scene to move your hero, jump, fire and made other actions..
 
 - [Features](#features)
 - [ToDo](#todo)
